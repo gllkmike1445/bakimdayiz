@@ -1,0 +1,136 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@900&display=swap");
+
+@media only screen and (min-width: 661px) {
+  /* STYLES HERE */
+  .x {
+    padding-left: 50px;
+    padding-top: 50px;
+  }
+
+  .round-right {
+    border-radius: 0px 50px 50px 0px;
+  }
+
+  .round-all {
+    border-radius: 30px 30px 30px 30px;
+  }
+  .mid {
+    height: 200px;
+  }
+  .bottom {
+    height: 100px;
+  }
+  .bottom-text {
+    height: 50px;
+  }
+  .round-bottom {
+    border-radius: 0px 0px 30px 30px;
+  }
+  .round-top {
+    border-radius: 30px 30px 0px 0px;
+  }
+  .verticalText {
+    transform: rotate(0.75turn);
+    font-size: 4.813rem;
+
+    font-family: "Inter", sans-serif;
+  }
+
+  #shadow {
+    background-color: #222222;
+    opacity: 67%;
+  }
+}
+@media only screen and (max-width: 661px), screen and (max-height: 800) {
+  /* STYLES HERE */
+  .top {
+    height: 18%;
+  }
+  .x {
+    padding-left: 0px;
+    padding-top: 0px;
+  }
+
+  .verticalText {
+    transform: rotate(0.75turn);
+    font-size: 3.813rem !important;
+    font-family: "Inter", sans-serif;
+  }
+  .mid-on-page {
+    height: 60%;
+    padding-bottom: 40px;
+  }
+  .mid {
+    height: 200px !important;
+  }
+  .bottom-on-page {
+    height: 200px !important;
+  }
+  .bottom {
+    height: 70px !important;
+    width: 99% !important;
+    margin-bottom: 10px;
+  }
+  .bottom-text {
+    height: 50px !important;
+    width: 90% !important;
+
+    margin: 10px 10px 10px 10px;
+  }
+  .round-right {
+    border-radius: 0px 50px 50px 0px;
+  }
+
+  .round-all {
+    border-radius: 30px 30px 30px 30px;
+  }
+
+  .round-bottom {
+    border-radius: 30px 30px 30px 30px;
+  }
+  .round-top {
+    border-radius: 30px 30px 30px 30px;
+  }
+  #shadow {
+    background-color: #222222;
+    opacity: 67%;
+  }
+  .bottom-buton-holder {
+    justify-content: center;
+  }
+}
+
+.x {
+  height: 100%;
+  width: 100%;
+}
+
+html,
+body {
+  background-image: url(/assets/background_image.jpg);
+  background-size: cover;
+  padding: 0px;
+  margin: 0px;
+  height: 100%;
+  width: 100%;
+}
+
+.h1 {
+  font-size: 3rem !important;
+}
+
+.h2 {
+  font-size: 2rem;
+}
+
+.h3 {
+  font-size: 3rem !important;
+}
+
+.h6 {
+  font-size: 2rem !important;
+}
+
+.lead {
+  margin: 0rem !important;
+}

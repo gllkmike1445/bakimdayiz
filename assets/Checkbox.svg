@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15">
+  <g id="Checkbox" transform="translate(-447 -671)">
+    <g id="Rectangle_4" data-name="Rectangle 4" transform="translate(447 671)" fill="none" stroke="rgba(255,255,255,0.7)" stroke-width="1">
+      <rect width="15" height="15" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="14" height="14" rx="3.5" fill="none"/>
+    </g>
+    <g id="check" transform="translate(441.818 665.324)">
+      <path id="Path_2" data-name="Path 2" d="M14.942,10.864a.627.627,0,1,1,.9.878L12.5,15.914a.627.627,0,0,1-.9.017L9.385,13.718a.627.627,0,1,1,.886-.886l1.751,1.75,2.9-3.7.017-.018Z" fill="rgba(255,255,255,0.7)" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
